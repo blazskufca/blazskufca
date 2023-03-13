@@ -20,3 +20,13 @@ In this project, I explored the use of Naive Bayes models to predict the sentime
 - Pandas library for corpus analysis and cleanup
 - Seaborn library for graphical representation of dataset and model accuracy (confusion matrix)
 - Scikit-learn and their Multinomial Naive Bayes and Bernoulli Naive Bayes classifiers
+
+- - - 
+
+### *[djeForums](https://github.com/blazskufca/djeForums)*
+A prototype of an open forum/discussion board, built with Django. It has the following features: 
+
+- Session/cookie based voting system
+- Rich text editor for comments/posts
+- Pagination
+- Search functionality
