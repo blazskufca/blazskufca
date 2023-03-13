@@ -14,7 +14,7 @@ Trackify is a web application that allows users to track prices of items and pro
 - - -
 
 ### *[Sentiment Predictions with Naive Bayes Models](https://github.com/blazskufca/Sentiment-predictions-with-Naive-Bayes-models)*
-In this project, I explored the use of Naive Bayes models to predict the sentiment of news headlines. I used the Manually Sentiment Annotated Slovenian News Corpus SentiNews 1.0 to train and test my models. Some of the techniques I used include:
+In this project, I explored the use of Naive Bayes models to predict the sentiment of news headlines. I used the [Manually Sentiment Annotated Slovenian News Corpus SentiNews 1.0](http://hdl.handle.net/11356/1110) to train and test my models. Some of the techniques I used include:
 
 - TF-IDF
 - Pandas library for corpus analysis and cleanup
